@@ -9,16 +9,16 @@ rapid logging.
 
 ## Équipe
 
-- Prénom NOM
-- Prénom NOM
-- Prénom NOM
+- Ethan
+- Riyane
+- Antoine
 
 ## Installation
 
 Prérequis : Anaconda (ou Miniconda) et Git.
 
 ```bash
-git clone git@github.com:TON-PSEUDO/bujo-python.git
+git clone git@github.com:QuiQUiflex/bujo-python.git
 cd bujo-python
 conda create -n bujo python=3.12 -y
 conda activate bujo
