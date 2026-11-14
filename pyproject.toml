@@ -1,0 +1,11 @@
+# Configuration des outils de test (pytest et coverage).
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.coverage.run]
+source = ["bujo"]
+
+[tool.coverage.report]
+show_missing = true

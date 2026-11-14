@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Tests et couverture
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation générée par Sphinx
+docs/_build/
+
+# Éditeurs
+.vscode/
+.idea/
