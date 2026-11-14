@@ -1,0 +1,2 @@
+2026-11-14 12:01:40,514 | ERROR    | bujo.entries | Transition interdite pour Task(id='0ac65e9c', name='Réviser Python', log_date=2026-11-14) : migrée -> terminée
+2026-11-14 12:01:40,514 | ERROR    | bujo.validation | Date invalide : 'demain'
